@@ -17,6 +17,17 @@ List<Questions>getQuestion(){
         Answer("oppo", false),
     Answer("samsumg", false),
   ]), );
+
+   list.add(Questions("who made flutter", [
+    Answer("google", true),
+        Answer("oppo", false),
+    Answer("samsumg", false),
+  ]), );
+   list.add(Questions("who made flutter", [
+    Answer("google", true),
+        Answer("oppo", false),
+    Answer("samsumg", false),
+  ]), );
   return list;
   
 }
